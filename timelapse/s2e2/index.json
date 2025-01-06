@@ -1,0 +1,118 @@
+{
+  "colors": [
+    "#ae233d",
+    "#ec5427",
+    "#f4ab3c",
+    "#f9d759",
+    "#48a06d",
+    "#5cc87f",
+    "#9ae96c",
+    "#317270",
+    "#469ca8",
+    "#2d519e",
+    "#4d90e3",
+    "#7ee6f2",
+    "#4440ba",
+    "#6662f6",
+    "#772b99",
+    "#a754ba",
+    "#eb4e81",
+    "#f19eab",
+    "#684a34",
+    "#956a34",
+    "#000000",
+    "#898d90",
+    "#d5d7d9",
+    "#ffffff"
+  ],
+  "expands": [
+    {
+      "canvas": {
+        "width": 112,
+        "height": 112
+      },
+      "index": {
+        "from": 0,
+        "to": 22942
+      },
+      "part": {
+        "from": 0,
+        "to": 0
+      }
+    },
+    {
+      "canvas": {
+        "width": 240,
+        "height": 240
+      },
+      "index": {
+        "from": 22943,
+        "to": 95368
+      },
+      "part": {
+        "from": 1,
+        "to": 1
+      }
+    },
+    {
+      "canvas": {
+        "width": 426,
+        "height": 240
+      },
+      "index": {
+        "from": 95369,
+        "to": 343303
+      },
+      "part": {
+        "from": 2,
+        "to": 4
+      }
+    },
+    {
+      "canvas": {
+        "width": 426,
+        "height": 426
+      },
+      "index": {
+        "from": 343304,
+        "to": 1000658
+      },
+      "part": {
+        "from": 5,
+        "to": 11
+      }
+    },
+    {
+      "canvas": {
+        "width": 720,
+        "height": 426
+      },
+      "index": {
+        "from": 1000659,
+        "to": 1370860
+      },
+      "part": {
+        "from": 12,
+        "to": 15
+      }
+    },
+    {
+      "canvas": {
+        "width": 720,
+        "height": 720
+      },
+      "index": {
+        "from": 1370861,
+        "to": 1685844
+      },
+      "part": {
+        "from": 16,
+        "to": 19
+      }
+    }
+  ],
+  "episode": "s2e2",
+  "total": 1685844,
+  "totalParts": 19,
+  "partSize": 100000
+}

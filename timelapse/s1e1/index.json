@@ -1,0 +1,54 @@
+{
+  "colors": [
+    "#e2d747",
+    "#a5dd5f",
+    "#56ba37",
+    "#5fcfdb",
+    "#3681c1",
+    "#091de0",
+    "#c276de",
+    "#77197c",
+    "#ffffff",
+    "#e4e4e4",
+    "#888888",
+    "#000000",
+    "#f1aacf",
+    "#d22d1f",
+    "#db9834",
+    "#976c49"
+  ],
+  "expands": [
+    {
+      "canvas": {
+        "width": 426,
+        "height": 240
+      },
+      "index": {
+        "from": 0,
+        "to": 3015007
+      },
+      "part": {
+        "from": 0,
+        "to": 30
+      }
+    },
+    {
+      "canvas": {
+        "width": 426,
+        "height": 426
+      },
+      "index": {
+        "from": 3015008,
+        "to": 4284140
+      },
+      "part": {
+        "from": 31,
+        "to": 43
+      }
+    }
+  ],
+  "episode": "s1e1",
+  "total": 4284140,
+  "totalParts": 43,
+  "partSize": 100000
+}
