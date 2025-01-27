@@ -21,6 +21,10 @@
             "label": "S2E2 - Лето 2024"
         },
         {
+            "key": "2025",
+            "delimiter": true
+        },
+        {
             "key": "s3e1",
             "label": "S3E1 - Зима 2025"
         }
