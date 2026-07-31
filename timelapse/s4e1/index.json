@@ -1,0 +1,618 @@
+{
+  "version": "2.0",
+  "colorSchemes": {
+    "truecolor": {
+      "rosewood": "#6d011b",
+      "crimsonglory": "#bd0038",
+      "redorange": "#ff4500",
+      "chromeyellow": "#ffa800",
+      "sunglow": "#ffd626",
+      "dodieyellow": "#fff8d9",
+      "green": "#00a468",
+      "caribbeangreen": "#00cc77",
+      "kiwi": "#7fed56",
+      "pinegreen": "#00756f",
+      "munsell": "#009eaa",
+      "bluemunsell": "#00ccc0",
+      "cyancobaltblue": "#2350a3",
+      "bleudefrance": "#368fe9",
+      "turquoise": "#51e9f4",
+      "oceanblue": "#4a3ac1",
+      "verylightblue": "#6b5cff",
+      "violetsareblue": "#93b3fe",
+      "chinesepurple": "#811e9f",
+      "deepfuchsia": "#b34ac0",
+      "mauve": "#e5abff",
+      "vividcerise": "#de107f",
+      "sasquatchsocks": "#ff3881",
+      "salmonpink": "#ff98a9",
+      "vandykebrown": "#6d482e",
+      "goldenbrown": "#9c6927",
+      "verylighttangelo": "#ffb470",
+      "black": "#000000",
+      "davysgrey": "#515352",
+      "philippinegray": "#898d90",
+      "lightsilver": "#d3d7da",
+      "white": "#ffffff"
+    },
+    "COLORS_1": {
+      "yellow": "#e2d747",
+      "lightgreen": "#a5dd5f",
+      "green": "#56ba37",
+      "cyan": "#5fcfdb",
+      "cyanblue": "#3681c1",
+      "blue": "#091de0",
+      "lightmagenta": "#c276de",
+      "magenta": "#77197c",
+      "white": "#ffffff",
+      "lightgray": "#e4e4e4",
+      "gray": "#888888",
+      "black": "#000000",
+      "pink": "#f1aacf",
+      "red": "#d22d1f",
+      "orange": "#db9834",
+      "brown": "#976c41"
+    },
+    "COLORS": {
+      "deepcarmine": "#ae233d",
+      "flame": "#ec5427",
+      "yelloworange": "#f4ab3c",
+      "naplesyellow": "#f9d759",
+      "mediumseagreen": "#48a06d",
+      "emerald": "#5cc87f",
+      "inchworm": "#9ae96c",
+      "myrtlegreen": "#317270",
+      "verdigris": "#469ca8",
+      "cyancobaltblue": "#2d519e",
+      "unitednationsblue": "#4d90e3",
+      "mediumskyblue": "#7ee6f2",
+      "oceanblue": "#4440ba",
+      "VeryLightBlue": "#6662f6",
+      "grape": "#772b99",
+      "purpleplum": "#a754ba",
+      "darkpink": "#eb4e81",
+      "mauvelous": "#f19eab",
+      "coffee": "#684a34",
+      "coconut": "#956a34",
+      "black": "#000000",
+      "philippinegray": "#898d90",
+      "lightsilver": "#d5d7d9",
+      "white": "#ffffff"
+    },
+    "COLORS_32": {
+      "rosewood": "#6d011b",
+      "crimsonglory": "#bd0038",
+      "redorange": "#ff4500",
+      "chromeyellow": "#ffa800",
+      "sunglow": "#ffd626",
+      "dodieyellow": "#fff8d9",
+      "green": "#00a468",
+      "caribbeangreen": "#00cc77",
+      "kiwi": "#7fed56",
+      "pinegreen": "#00756f",
+      "munsell": "#009eaa",
+      "bluemunsell": "#00ccc0",
+      "cyancobaltblue": "#2350a3",
+      "bleudefrance": "#368fe9",
+      "turquoise": "#51e9f4",
+      "oceanblue": "#4a3ac1",
+      "verylightblue": "#6b5cff",
+      "violetsareblue": "#93b3fe",
+      "chinesepurple": "#811e9f",
+      "deepfuchsia": "#b34ac0",
+      "mauve": "#e5abff",
+      "vividcerise": "#de107f",
+      "sasquatchsocks": "#ff3881",
+      "salmonpink": "#ff98a9",
+      "vandykebrown": "#6d482e",
+      "goldenbrown": "#9c6927",
+      "verylighttangelo": "#ffb470",
+      "black": "#000000",
+      "davysgrey": "#515352",
+      "philippinegray": "#898d90",
+      "lightsilver": "#d3d7da",
+      "white": "#ffffff"
+    },
+    "blackwhite": {
+      "black": "#000000",
+      "white": "#ffffff"
+    },
+    "black": {
+      "black": "#000000"
+    },
+    "white": {
+      "white": "#ffffff"
+    }
+  },
+  "expands": [
+    {
+      "canvas": {
+        "width": 100,
+        "height": 100
+      },
+      "index": {
+        "from": 0,
+        "to": 25832
+      },
+      "part": {
+        "from": 0,
+        "to": 0
+      },
+      "shift": {
+        "x": 0,
+        "y": 0
+      },
+      "colorScheme": "COLORS_1",
+      "isTruecolor": false,
+      "colors": [
+        "#e2d747",
+        "#a5dd5f",
+        "#56ba37",
+        "#5fcfdb",
+        "#3681c1",
+        "#091de0",
+        "#c276de",
+        "#77197c",
+        "#ffffff",
+        "#e4e4e4",
+        "#888888",
+        "#000000",
+        "#f1aacf",
+        "#d22d1f",
+        "#db9834",
+        "#976c41"
+      ]
+    },
+    {
+      "canvas": {
+        "width": 200,
+        "height": 100
+      },
+      "index": {
+        "from": 25833,
+        "to": 69175
+      },
+      "part": {
+        "from": 1,
+        "to": 1
+      },
+      "shift": {
+        "x": 100,
+        "y": 0
+      },
+      "colorScheme": "COLORS",
+      "isTruecolor": false,
+      "colors": [
+        "#ae233d",
+        "#ec5427",
+        "#f4ab3c",
+        "#f9d759",
+        "#48a06d",
+        "#5cc87f",
+        "#9ae96c",
+        "#317270",
+        "#469ca8",
+        "#2d519e",
+        "#4d90e3",
+        "#7ee6f2",
+        "#4440ba",
+        "#6662f6",
+        "#772b99",
+        "#a754ba",
+        "#eb4e81",
+        "#f19eab",
+        "#684a34",
+        "#956a34",
+        "#000000",
+        "#898d90",
+        "#d5d7d9",
+        "#ffffff"
+      ]
+    },
+    {
+      "canvas": {
+        "width": 200,
+        "height": 200
+      },
+      "index": {
+        "from": 69176,
+        "to": 112133
+      },
+      "part": {
+        "from": 2,
+        "to": 2
+      },
+      "shift": {
+        "x": 100,
+        "y": 100
+      },
+      "colorScheme": "COLORS_32",
+      "isTruecolor": false,
+      "colors": [
+        "#6d011b",
+        "#bd0038",
+        "#ff4500",
+        "#ffa800",
+        "#ffd626",
+        "#fff8d9",
+        "#00a468",
+        "#00cc77",
+        "#7fed56",
+        "#00756f",
+        "#009eaa",
+        "#00ccc0",
+        "#2350a3",
+        "#368fe9",
+        "#51e9f4",
+        "#4a3ac1",
+        "#6b5cff",
+        "#93b3fe",
+        "#811e9f",
+        "#b34ac0",
+        "#e5abff",
+        "#de107f",
+        "#ff3881",
+        "#ff98a9",
+        "#6d482e",
+        "#9c6927",
+        "#ffb470",
+        "#000000",
+        "#515352",
+        "#898d90",
+        "#d3d7da",
+        "#ffffff"
+      ]
+    },
+    {
+      "canvas": {
+        "width": 300,
+        "height": 200
+      },
+      "index": {
+        "from": 112134,
+        "to": 346163
+      },
+      "part": {
+        "from": 3,
+        "to": 5
+      },
+      "shift": {
+        "x": 100,
+        "y": 100
+      },
+      "colorScheme": "COLORS_32",
+      "isTruecolor": false,
+      "colors": [
+        "#6d011b",
+        "#bd0038",
+        "#ff4500",
+        "#ffa800",
+        "#ffd626",
+        "#fff8d9",
+        "#00a468",
+        "#00cc77",
+        "#7fed56",
+        "#00756f",
+        "#009eaa",
+        "#00ccc0",
+        "#2350a3",
+        "#368fe9",
+        "#51e9f4",
+        "#4a3ac1",
+        "#6b5cff",
+        "#93b3fe",
+        "#811e9f",
+        "#b34ac0",
+        "#e5abff",
+        "#de107f",
+        "#ff3881",
+        "#ff98a9",
+        "#6d482e",
+        "#9c6927",
+        "#ffb470",
+        "#000000",
+        "#515352",
+        "#898d90",
+        "#d3d7da",
+        "#ffffff"
+      ]
+    },
+    {
+      "canvas": {
+        "width": 300,
+        "height": 300
+      },
+      "index": {
+        "from": 346164,
+        "to": 431511
+      },
+      "part": {
+        "from": 6,
+        "to": 6
+      },
+      "shift": {
+        "x": 100,
+        "y": 100
+      },
+      "colorScheme": "truecolor",
+      "isTruecolor": true,
+      "colors": [
+        "#6d011b",
+        "#bd0038",
+        "#ff4500",
+        "#ffa800",
+        "#ffd626",
+        "#fff8d9",
+        "#00a468",
+        "#00cc77",
+        "#7fed56",
+        "#00756f",
+        "#009eaa",
+        "#00ccc0",
+        "#2350a3",
+        "#368fe9",
+        "#51e9f4",
+        "#4a3ac1",
+        "#6b5cff",
+        "#93b3fe",
+        "#811e9f",
+        "#b34ac0",
+        "#e5abff",
+        "#de107f",
+        "#ff3881",
+        "#ff98a9",
+        "#6d482e",
+        "#9c6927",
+        "#ffb470",
+        "#000000",
+        "#515352",
+        "#898d90",
+        "#d3d7da",
+        "#ffffff"
+      ]
+    },
+    {
+      "canvas": {
+        "width": 400,
+        "height": 300
+      },
+      "index": {
+        "from": 431512,
+        "to": 556193
+      },
+      "part": {
+        "from": 7,
+        "to": 8
+      },
+      "shift": {
+        "x": 200,
+        "y": 100
+      },
+      "colorScheme": "truecolor",
+      "isTruecolor": true,
+      "colors": [
+        "#6d011b",
+        "#bd0038",
+        "#ff4500",
+        "#ffa800",
+        "#ffd626",
+        "#fff8d9",
+        "#00a468",
+        "#00cc77",
+        "#7fed56",
+        "#00756f",
+        "#009eaa",
+        "#00ccc0",
+        "#2350a3",
+        "#368fe9",
+        "#51e9f4",
+        "#4a3ac1",
+        "#6b5cff",
+        "#93b3fe",
+        "#811e9f",
+        "#b34ac0",
+        "#e5abff",
+        "#de107f",
+        "#ff3881",
+        "#ff98a9",
+        "#6d482e",
+        "#9c6927",
+        "#ffb470",
+        "#000000",
+        "#515352",
+        "#898d90",
+        "#d3d7da",
+        "#ffffff"
+      ]
+    },
+    {
+      "canvas": {
+        "width": 400,
+        "height": 400
+      },
+      "index": {
+        "from": 556194,
+        "to": 681076
+      },
+      "part": {
+        "from": 9,
+        "to": 10
+      },
+      "shift": {
+        "x": 200,
+        "y": 200
+      },
+      "colorScheme": "truecolor",
+      "isTruecolor": true,
+      "colors": [
+        "#6d011b",
+        "#bd0038",
+        "#ff4500",
+        "#ffa800",
+        "#ffd626",
+        "#fff8d9",
+        "#00a468",
+        "#00cc77",
+        "#7fed56",
+        "#00756f",
+        "#009eaa",
+        "#00ccc0",
+        "#2350a3",
+        "#368fe9",
+        "#51e9f4",
+        "#4a3ac1",
+        "#6b5cff",
+        "#93b3fe",
+        "#811e9f",
+        "#b34ac0",
+        "#e5abff",
+        "#de107f",
+        "#ff3881",
+        "#ff98a9",
+        "#6d482e",
+        "#9c6927",
+        "#ffb470",
+        "#000000",
+        "#515352",
+        "#898d90",
+        "#d3d7da",
+        "#ffffff"
+      ]
+    },
+    {
+      "canvas": {
+        "width": 400,
+        "height": 500
+      },
+      "index": {
+        "from": 681077,
+        "to": 818442
+      },
+      "part": {
+        "from": 11,
+        "to": 12
+      },
+      "shift": {
+        "x": 200,
+        "y": 200
+      },
+      "colorScheme": "truecolor",
+      "isTruecolor": true,
+      "colors": [
+        "#6d011b",
+        "#bd0038",
+        "#ff4500",
+        "#ffa800",
+        "#ffd626",
+        "#fff8d9",
+        "#00a468",
+        "#00cc77",
+        "#7fed56",
+        "#00756f",
+        "#009eaa",
+        "#00ccc0",
+        "#2350a3",
+        "#368fe9",
+        "#51e9f4",
+        "#4a3ac1",
+        "#6b5cff",
+        "#93b3fe",
+        "#811e9f",
+        "#b34ac0",
+        "#e5abff",
+        "#de107f",
+        "#ff3881",
+        "#ff98a9",
+        "#6d482e",
+        "#9c6927",
+        "#ffb470",
+        "#000000",
+        "#515352",
+        "#898d90",
+        "#d3d7da",
+        "#ffffff"
+      ]
+    },
+    {
+      "canvas": {
+        "width": 500,
+        "height": 500
+      },
+      "index": {
+        "from": 818443,
+        "to": 1696844
+      },
+      "part": {
+        "from": 13,
+        "to": 21
+      },
+      "shift": {
+        "x": 300,
+        "y": 200
+      },
+      "colorScheme": "truecolor",
+      "isTruecolor": true,
+      "colors": [
+        "#6d011b",
+        "#bd0038",
+        "#ff4500",
+        "#ffa800",
+        "#ffd626",
+        "#fff8d9",
+        "#00a468",
+        "#00cc77",
+        "#7fed56",
+        "#00756f",
+        "#009eaa",
+        "#00ccc0",
+        "#2350a3",
+        "#368fe9",
+        "#51e9f4",
+        "#4a3ac1",
+        "#6b5cff",
+        "#93b3fe",
+        "#811e9f",
+        "#b34ac0",
+        "#e5abff",
+        "#de107f",
+        "#ff3881",
+        "#ff98a9",
+        "#6d482e",
+        "#9c6927",
+        "#ffb470",
+        "#000000",
+        "#515352",
+        "#898d90",
+        "#d3d7da",
+        "#ffffff"
+      ]
+    },
+    {
+      "canvas": {
+        "width": 500,
+        "height": 500
+      },
+      "index": {
+        "from": 1696845,
+        "to": 1704762
+      },
+      "part": {
+        "from": 22,
+        "to": 22
+      },
+      "shift": {
+        "x": 300,
+        "y": 200
+      },
+      "colorScheme": "black",
+      "isTruecolor": false,
+      "colors": [
+        "#000000"
+      ]
+    }
+  ],
+  "episode": "s4e1",
+  "total": 1704762,
+  "totalParts": 22,
+  "partSize": 100000
+}
