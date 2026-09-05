@@ -1,44 +1,48 @@
 {
-    "seasons": [
-        {
-            "key": "s1e1",
-            "label": "S1E1 - Весна 2023"
-        },
-        {
-            "key": "s1e2",
-            "label": "S1E2 - Осень 2023"
-        },
-        {
-            "key": "2024",
-            "delimiter": true
-        },
-        {
-            "key": "s2e1",
-            "label": "S2E1 - Зима 2024"
-        },
-        {
-            "key": "s2e2",
-            "label": "S2E2 - Лето 2024"
-        },
-        {
-            "key": "2025",
-            "delimiter": true
-        },
-        {
-            "key": "s3e1",
-            "label": "S3E1 - Зима 2025"
-        },
-        {
-            "key": "s3e2",
-            "label": "S3E2 - Лето 2025"
-        },
-	{
-	    "key": "2026",
-	    "delimiter": true
-	},
-	{
-	    "key": "s4e1",
-	    "label": "S4E1 - Зима 2026"
-	}
-    ]
+	"seasons": [
+		{
+			"key": "s1e1",
+			"label": "S1E1 - Весна 2023"
+		},
+		{
+			"key": "s1e2",
+			"label": "S1E2 - Осень 2023"
+		},
+		{
+			"key": "2024",
+			"delimiter": true
+		},
+		{
+			"key": "s2e1",
+			"label": "S2E1 - Зима 2024"
+		},
+		{
+			"key": "s2e2",
+			"label": "S2E2 - Лето 2024"
+		},
+		{
+			"key": "2025",
+			"delimiter": true
+		},
+		{
+			"key": "s3e1",
+			"label": "S3E1 - Зима 2025"
+		},
+		{
+			"key": "s3e2",
+			"label": "S3E2 - Лето 2025"
+		},
+		{
+			"key": "2026",
+			"delimiter": true
+		},
+		{
+			"key": "s4e1",
+			"label": "S4E1 - Зима 2026"
+		},
+		{
+			"key": "s4e2",
+			"label": "S4E2 - Летоц 2026"
+		}
+	]
 }
