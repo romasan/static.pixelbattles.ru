@@ -223,7 +223,7 @@
         "to": 2
       },
       "shift": {
-        "x": 100,
+        "x": 0,
         "y": 100
       },
       "colorScheme": "COLORS_32",
@@ -277,8 +277,8 @@
         "to": 5
       },
       "shift": {
-        "x": 100,
-        "y": 100
+        "x": 0,
+        "y": 0
       },
       "colorScheme": "COLORS_32",
       "isTruecolor": false,
@@ -331,8 +331,8 @@
         "to": 6
       },
       "shift": {
-        "x": 100,
-        "y": 100
+        "x": 0,
+        "y": 0
       },
       "colorScheme": "truecolor",
       "isTruecolor": true,
@@ -385,8 +385,8 @@
         "to": 8
       },
       "shift": {
-        "x": 200,
-        "y": 100
+        "x": 100,
+        "y": 0
       },
       "colorScheme": "truecolor",
       "isTruecolor": true,
@@ -439,8 +439,8 @@
         "to": 10
       },
       "shift": {
-        "x": 200,
-        "y": 200
+        "x": 0,
+        "y": 100
       },
       "colorScheme": "truecolor",
       "isTruecolor": true,
@@ -493,8 +493,8 @@
         "to": 12
       },
       "shift": {
-        "x": 200,
-        "y": 200
+        "x": 0,
+        "y": 0
       },
       "colorScheme": "truecolor",
       "isTruecolor": true,
@@ -547,8 +547,8 @@
         "to": 21
       },
       "shift": {
-        "x": 300,
-        "y": 200
+        "x": 100,
+        "y": 0
       },
       "colorScheme": "truecolor",
       "isTruecolor": true,
@@ -601,8 +601,8 @@
         "to": 22
       },
       "shift": {
-        "x": 300,
-        "y": 200
+        "x": 0,
+        "y": 0
       },
       "colorScheme": "black",
       "isTruecolor": false,

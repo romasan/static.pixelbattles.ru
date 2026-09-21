@@ -278,7 +278,7 @@
       },
       "shift": {
         "x": 100,
-        "y": 100
+        "y": 0
       },
       "colorScheme": "COLORS_32",
       "isTruecolor": false,
@@ -331,8 +331,8 @@
         "to": 9
       },
       "shift": {
-        "x": 100,
-        "y": 200
+        "x": 0,
+        "y": 100
       },
       "colorScheme": "COLORS_32",
       "isTruecolor": false,
