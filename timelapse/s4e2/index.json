@@ -324,7 +324,7 @@
       },
       "index": {
         "from": 397232,
-        "to": 727364
+        "to": 742439
       },
       "part": {
         "from": 6,
@@ -373,7 +373,7 @@
     }
   ],
   "episode": "s4e2",
-  "total": 727364,
+  "total": 742439,
   "totalParts": 9,
   "partSize": 100000
 }
